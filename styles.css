@@ -1,0 +1,38 @@
+.logo {
+    height: 70px;
+}
+
+.navbar-brand img {
+    height: 70px;
+    margin-right: 10px;
+}
+.nav-item {
+    font-size: 1.5rem;
+}
+.hero {
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+h3 {
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+
+.lead {
+    font-size: 1.2rem;
+}
+
+  .service-image {
+      transition: transform 0.3s ease;
+  }
+
+  .service-image:hover {
+      transform: scale(1.05);
+      /* Slightly enlarges the image on hover */
+      cursor: pointer;
+      /* Changes cursor to pointer */
+  }
+
